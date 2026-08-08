@@ -1,7 +1,7 @@
 # Laboratorio 3 - Teoría de la Computación
 
 ## Video de ejecución (Problema 1)
-[Link del video](https://youtube.com/tu-link-aqui)
+[Link del video](https://youtu.be/n1O7thAig-U)
 
 ## Estructura del repositorio
 - `problema1/` — `arbol_sintactico.py` + `regex.txt` (infix → postfix → árbol sintáctico)
